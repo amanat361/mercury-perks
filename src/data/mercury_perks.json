@@ -1,0 +1,1438 @@
+{
+    "Most Used": [
+        {
+            "company_name": "Zeplin",
+            "deal_text": "1 year free",
+            "description": "Collaboration app for UI designers and frontend developers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/42eca5a6bc0e3a9e95382f99306168760a7742af-600x600.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "AWS",
+            "deal_text": "$5k credits",
+            "description": "Cloud computing services",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5a3400d8961f4d0f21e98e38d4cdb079744313c8-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Intercom",
+            "deal_text": "1 year free",
+            "description": "Communications platform with bots, apps, product tours, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3fec7506b209988fed41b1eacbc00df38d0cc9f2-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Namecheap",
+            "deal_text": "Up to 100% off",
+            "description": "Domain name registrar",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fec4164d206977c3aba7d4f2c37c1f4a36d913e6-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "QuickBooks Online",
+            "deal_text": "30% off",
+            "description": "Bill payments and invoicing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/eb5f1fdf0aa7a36b596792fde8acbb7107292f50-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Slack",
+            "deal_text": "25% off",
+            "description": "Connect your people, tools, customers and partners in a digital HQ",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6b51521d49e0094452becee5a49e692f6c91bc61-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Customer Spotlight": [
+        {
+            "company_name": "BoxyHQ",
+            "deal_text": "$2K credits",
+            "description": "Open-source platform for SAML SSO, audit logs, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/366949ab353f71da3206cdbefc9e4f85d09a8461-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Streak",
+            "deal_text": "25% off + more",
+            "description": "Lightweight CRM for startups, investors, and small businesses.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7403cc5aa3e21f8d98d69860f459e5e4b52c588e-400x370.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Fillout",
+            "deal_text": "30% off",
+            "description": "Create powerful forms, surveys and quizzes your audience will answer",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4219091d13451f24af17a646239110b45bf3d172-522x522.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Beehiiv",
+            "deal_text": "20% off",
+            "description": "Launch, scale, and monetize with the newsletter tool built for growth",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/41f70f939d75f4eda9e640bc6422792a67b5d99a-400x400.jpg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Swiftlane",
+            "deal_text": "$1K off",
+            "description": "Face recognition and mobile app access to office doors",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fe62439bb572d0d54910bec136073728b3607c07-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Byteboard",
+            "deal_text": "$1,250 off",
+            "description": "Technical recruiting tool utilizing project-based interviewing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/89818c28252b14c5b73d6e7cb4400f1cb18bf5b2-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Qureos",
+            "deal_text": "75 candidates + more",
+            "description": "Recruiting and mentorship programs for startups",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ba26851db11322ace237db8ee2fb624dd903f7f0-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Supabase",
+            "deal_text": "1 year free + more",
+            "description": "Open-source, serverless, relational database built around PostgreSQL",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a0466a2dcbf36a72dc77f39c787e81e6a650bb4f-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Hex",
+            "deal_text": "3 months free",
+            "description": "Collaborative platform for data science and analytics",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d347bbff50443911f10cae46e0cf596a792b4d4f-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Porter",
+            "deal_text": "1 year free",
+            "description": "Easiest way to deploy on AWS, GCP, and Azure",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a4fafe52dbbbef6f7605c57a801367540aadb060-752x752.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Deel",
+            "deal_text": "$25k off + free HRIS",
+            "description": "Payroll and compliance for international teams",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/666f4e397b4f171a756ed81620f264a00c5674a8-800x413.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Parallel",
+            "deal_text": "One month free",
+            "description": "The all-in-one hiring stack for modern startups.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/93a14f3d54035e77a7e418b02ff52a422a1a61e7-400x400.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Simplified",
+            "deal_text": "50% off",
+            "description": "All-in-one design platform for freelancers and entrepreneurs",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a09abd43938ee4aa570bc7cbb17a31877db385ad-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Wellnite",
+            "deal_text": "Free access",
+            "description": "Mental health service for startups, small businesses, and freelancers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/89cd4a97dda648d097fc56bd62bf1a86bb4d7d04-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "IO Card": [
+        {
+            "company_name": "Mastercard Rental Insurance",
+            "deal_text": "Free membership",
+            "description": "Rental car insurance",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/13c846cca3d73d9d34b68237e52faa2f8ab6d9d0-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Salesforce Essentials",
+            "deal_text": "Over 60% off",
+            "description": "Leading CRM Solution",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/43d78b7f70cfb7350992c86d7c411c5ec122d033-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Uber Freight",
+            "deal_text": "Up to $1000 in credits",
+            "description": "Freight shipper program by Uber",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/360b73dd495d2f7ed6713061218419af6e4f961a-94x60.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "TurboTax",
+            "deal_text": "Up to $20 off",
+            "description": "Tax preparation software",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a504512f97dad1e9988b58b7b922c9a09f54dc75-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Adobe Creative Cloud",
+            "deal_text": "2 months free",
+            "description": "Creative Tools",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/132589ff4975b71dcf413bdf4644c2c722dc0b05-454x118.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Zoho Social",
+            "deal_text": "50% off",
+            "description": "Social media solution",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ca5cb4a30d93d5015115db83c6dd2fbbaac9d019-900x675.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Uber For Business",
+            "deal_text": "Up to $100 in vouchers",
+            "description": "Rides, meals, and delivery",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/16d71b6aa9ffb4e297458b1efda61e266594f67d-437x141.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "ShopRunner",
+            "deal_text": "Free membership",
+            "description": "E-commerce platform providing shipping, free returns, discounts, and seamless checkout",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/eb51a9c7e01224da86645daeeeb5ed2be0682102-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Microsoft Advertising",
+            "deal_text": "Up to $125 in credits",
+            "description": "Search and native ads",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/efeb143447d5b18d1e52c37453edded16c4bd80b-338x72.svg?max-h=40&auto=format"
+        }
+    ],
+    "Accounting": [
+        {
+            "company_name": "Lazo",
+            "deal_text": "30% off + more",
+            "description": "Lazo is an all-in-one solution providing legal, tax, accounting, and fundraising solutions for early-stage startups",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/857b2809a887bff7341645933b8227aa5382e3d6-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Finaloop",
+            "deal_text": "3 months free",
+            "description": "Real-time bookkeeping and taxes for ecommerce brands",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/1a9e4eb64ea7a64c65bfc24af90468f04c7dd0ce-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Kruze Consulting",
+            "deal_text": "1 month free",
+            "description": "Bookkeeping, taxes, R&D credits, and more for funded startups",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4a5ed61ba0a565b03655a732b6cdc8a2e1f68e46-68x80.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Zeni",
+            "deal_text": "20% off",
+            "description": "Bookkeeping, external CFOs, and payments",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/bd0bea14adef98552bcb631c26605dd15ed8fb11-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Fincent",
+            "deal_text": "25% off",
+            "description": "Fincent is a new age finance firm whose mission is to bring financial and accounting services into the modern era.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/89d9bb2f4a02d11bc9ee35d7851e9750fee0ca22-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Tukel Inc",
+            "deal_text": "25% off",
+            "description": "Bookkeeping, taxes, payroll, CFO advisory, and more for startups and SMBs",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/b40b32a34bb5979b05a069e4e66ff5e6f7245974-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Pilot",
+            "deal_text": "20% off",
+            "description": "Bookkeeping, taxes, and external CFOs",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/bfcf7b425776183eeb881c81c215279f62ae07cb-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "QuickBooks Online",
+            "deal_text": "30% off",
+            "description": "Bill payments and invoicing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/eb5f1fdf0aa7a36b596792fde8acbb7107292f50-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Manay CPA",
+            "deal_text": "20% off ",
+            "description": "Full-service CPA company providing financial and tax advice while offering a global investment network",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ee3e573ad880f4d4dd885a6dfa398981fbd6e57b-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Punch Financial",
+            "deal_text": "25% off",
+            "description": "Bookkeeping, External CFOs, and Payments",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/56001cf6aaf470f281a304090d79f75146c4538e-170x170.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Bookkeeper360",
+            "deal_text": "25% off",
+            "description": "Bookkeeper360 is a 100% US-Based team that specializes in accounting, advisory, payroll, and tax compliance for startups and established businesses.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/798947781e8305c33fddfd47da895c501b595ad0-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Less Accounting",
+            "deal_text": "20% off",
+            "description": "Accounting solutions for freelancers, consultants, entrepreneurs, & small business owners to manage their own bookkeeping or hire us to help.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/256cf13332e3389d9e3b517527161039da326acf-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Kimblewick",
+            "deal_text": "20% off",
+            "description": "Strategic Finance & Operations advisory for startups/SMBs",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f428050a8e039b9e11a97487eed2fb1670d93c08-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Finta",
+            "deal_text": "50% off",
+            "description": "Accounting platform for startups to easily manage bookkeeping, taxes, and get financial insights.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/02cf6c2f6732030928a5f68d40208948eb988ba7-500x500.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Bean Ninjas",
+            "deal_text": "30% off",
+            "description": "We help 6 and 7 figure eCom brands crush their numbers without the headache of bookkeeping",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/729ec6b1a050f035e84b6def210ee15a17728a21-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Puzzle",
+            "deal_text": "Free access",
+            "description": "AI-powered accounting software, built native to Mercury. Get real-time financial insights, reports and startup metrics all within a single platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/0a82231a6efafdbe540ba93883e22fbca5f705d1-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "AirCFO",
+            "deal_text": "$5k credits",
+            "description": "An accounting, finance, tax, and people ops platform for Series A+ startups",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/0aee3ff607855d689b805ea1ea09d15d5e259698-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Graphite",
+            "deal_text": "25% off",
+            "description": "Full finance department as a service for tech, CPG/e-commerce & web3 startups at Seed stage and beyond",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5322ffe41323bed22ce2763b3a60a814ea5794f1-407x456.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Rillet",
+            "deal_text": "$3k off",
+            "description": "Bookkeeping, invoicing, CFO advisory for SaaS companies",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d312d3d38a7e5aa6d1b9aaa8a5ada9c5bb9dde69-800x400.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Inkle",
+            "deal_text": "Up to 30% off",
+            "description": "All-in-one SaaS\u00a0stack for founders to access affordable, quality, US-licensed Certified Public Accountant services.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/201b61775001e0644b540d2864c57cf99be26bac-60x60.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "CleerTax",
+            "deal_text": "$150 off",
+            "description": "Accurate, affordable, and efficient bookkeeping and tax services to help entrepreneurs",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6e6e6c303fb53f37f86dbe6b95eef8bd5516e0de-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Integral",
+            "deal_text": "20% off",
+            "description": "Accounting solution for web3 operators",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e52f93146a9134e677aef660574fae7279a71505-177x177.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Accountalent",
+            "deal_text": "$500 off",
+            "description": "Tax and accounting solution for 5,000+ startups providing income tax compliance, R&D studies, bookkeeping, and other support services",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/12f548377195b3f1a01f8210286c8a02054891fa-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Fondo",
+            "deal_text": "$1k off + more",
+            "description": "All-in-one accounting platform for startups. Get your books closed, taxes filed, and cash back from the IRS.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/697be7b4a83f2ed1adc52953b10ff4bfdf4554b3-648x648.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "FlowFi",
+            "deal_text": "50% off",
+            "description": "Accounting, CFO, and taxes for growing businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/649f9fa4a58871c308581a5d42ec053fd5c3b806-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Bench",
+            "deal_text": "30% off",
+            "description": "Bookkeeping, tax filing, and advisory",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/2d7bbc472f09cef488551d94252aeba4358b8678-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Advertising": [
+        {
+            "company_name": "Decibel",
+            "deal_text": "$500 credit",
+            "description": "DIY Audio Ads",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/bfd6349b3f622acbac0b62a04b3adaeb02e6f2b8-65x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Boundary",
+            "deal_text": "15% off",
+            "description": "Digital design, development, and branding studio that works with tech & eCommerce brands across various platforms & places.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7f22c74fbddca7c07d60f96f7690d7f048899977-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Intensify",
+            "deal_text": "$1,200 credits",
+            "description": "The digital marketers deployed by scaling SAAS and eCommerce companies",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c5895fde9806dde9ac67e4d7c1038a56a6309413-500x500.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Marz Agency",
+            "deal_text": "$1,000 credit",
+            "description": "Digital marketing agency specializing in data-driven, omnichannel media buying and creative strategies.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/b7fa84801cf22cdaf4bde80e5178eb44dc1cafc7-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "AdQuick",
+            "deal_text": "$500 credit",
+            "description": "Marketplace for out of home advertising",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/9d5a4c64e57c16fadadea9cde686995b510fa283-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Beeyond Media",
+            "deal_text": "20% off + more",
+            "description": "Beeyond provides a unique platform for high-quality out-of-home advertising campaigns on electronic billboards and various digital displays",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/568a8b2ebf7d66dd8861998ebcb1fbc3c681ab75-1000x1000.png?max-h=40&auto=format"
+        }
+    ],
+    "AI": [
+        {
+            "company_name": "Jasper",
+            "deal_text": "7 days free",
+            "description": "AI copywriter and content generator for teams",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/01e2824f56be4bdd519af885033e67ea07c48c35-99x80.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "OpenAI",
+            "deal_text": "$1,000 credits",
+            "description": "OpenAI is an AI research and deployment company. Artificial general intelligence that benefits all of humanity.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d50f8019a4d25da82cf20b0c0dc8035c456406c6-600x600.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Tome",
+            "deal_text": "500 credits",
+            "description": "Use AI to generate content & images, build one-pagers and presentations, or explore any topic",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6896d4a065a66aa0362755c89ac8e2347e092bab-400x400.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Mixo",
+            "deal_text": "15% off",
+            "description": "AI platform that generates and hosts SEO-optimized landing pages for businesses, offering customization and integrations.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/005b1b533f30c7cb87caa42fc00b6916eac21bbd-513x513.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "GoCharlie",
+            "deal_text": "50% off",
+            "description": "Generative AI assistant capable of creating all the content your company needs for SEO, Social Media, SMS and beyond",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7c78aeb7e2a5b52a753aef443f813d5428ff62a5-1000x1000.png?max-h=40&auto=format"
+        }
+    ],
+    "Climate": [
+        {
+            "company_name": "Eagle Point Funding",
+            "deal_text": "15% off",
+            "description": "Maximize your R&D non-dilutive funding within the fields of energy, defense, artificial intelligence, robotics, cyber security, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7966ffe3e5845fc9e02989e31c74c93beb8acdf4-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Wren",
+            "deal_text": "1 month free",
+            "description": "Offset your employees' carbon footprint and engage them in climate action with Wren.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/47d3f5a6102e58f2eaf63c25bd3da471a25f36e2-500x500.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Instrumentl",
+            "deal_text": "$100 off",
+            "description": "Instrumentl is the institutional fundraising platform - bringing grant prospecting, tracking and management into one tool.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/856bfa9aacd886cc1ba41593c418d57df968068e-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "EcoCart",
+            "deal_text": "1 month free",
+            "description": "Sustainability software for calculating and offsetting brands ecological footprints",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/601a8f3413625ff861235d906f545ab198e1e355-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Greenly",
+            "deal_text": "15% off",
+            "description": "Greenly makes carbon management easy & intuitive, helping companies of all sizes measure, manage, and reduce their carbon footprint.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5c42e989febb921ea2717982502666ca761f4985-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Lune",
+            "deal_text": "5% off ",
+            "description": "Calculate emissions, create positive impact through vetted climate projects, and future-proof business growth.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3ac6d1f5c702f4aaf703cac56c230dfdeb5991f3-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Position Green",
+            "deal_text": "20% off ",
+            "description": "ESG software for efficiently collecting, analyzing and reporting sustainability data",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fd4e7527ccf82b62895d0e0b19c7430b0aa4fd6a-1000x1000.png?max-h=40&auto=format"
+        }
+    ],
+    "Communication": [
+        {
+            "company_name": "Intercom",
+            "deal_text": "1 year free",
+            "description": "Communications platform with bots, apps, product tours, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3fec7506b209988fed41b1eacbc00df38d0cc9f2-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "OpenPhone",
+            "deal_text": "20% off",
+            "description": "Business phone numbers for you and your team",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8b6d17eaa2078898d2ddad5d5f4d541df32bf55e-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Infobip",
+            "deal_text": "Up to $50k",
+            "description": "Communication platform including SMS, voice, email, chat apps, and more, enabling personalized engagement with customers worldwide",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f103dcd68eeaba5a19f25d41af21d8ea3f2ae0af-1028x555.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Slack",
+            "deal_text": "25% off",
+            "description": "Connect your people, tools, customers and partners in a digital HQ",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6b51521d49e0094452becee5a49e692f6c91bc61-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Vowel",
+            "deal_text": "50% off",
+            "description": "AI-powered video meetings, summaries and items with live transcripts, cloud recording, shared notes, agendas, and universal search",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/31b0fbe39bfea78b89efe420478446540a282faf-225x225.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Bettermode",
+            "deal_text": "25% off",
+            "description": "Bettermode enables businesses to build a white-label, online community to connect, engage and retain customers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5bfe81f4a210926b396da49078bfb66b09a4c521-320x320.png?max-h=40&auto=format"
+        }
+    ],
+    "Developer Tools": [
+        {
+            "company_name": "Zeplin",
+            "deal_text": "1 year free",
+            "description": "Collaboration app for UI designers and frontend developers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/42eca5a6bc0e3a9e95382f99306168760a7742af-600x600.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Rootly",
+            "deal_text": "$1k credit",
+            "description": "Incident management platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/439155d5a7333bb23f12600ebee1599b86966540-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "WorkOS",
+            "deal_text": "$3k credits",
+            "description": "Make your app Enterprise ready with Single Sign-On, Directory Sync, Audit Logs and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7533da796782a4ffcd7190f206fc799789501c09-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Appsmith",
+            "deal_text": "$30k credits",
+            "description": "Appsmith is an open source, low code platform that builds internal apps that fill gaps",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a258345645aea1292c466482af528410e53afe50-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Carrd",
+            "deal_text": "30% off",
+            "description": "Website building tool",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/0eaf8c1365a04ad8aa4f622843772a35204262e8-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Svix",
+            "deal_text": "25% off",
+            "description": "Webhooks solutions service",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6f15e4b1b225c4b4f61796b020a13e3ff5dc0dc0-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "TalentQL",
+            "deal_text": "10% off",
+            "description": "Engineering talent recruitment and outsourcing company",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a1c2379b784d2b81600908aff58a33dc5ad27565-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Mux",
+            "deal_text": "$1k credit",
+            "description": "An API that enables developers to build unique live and on-demand video experiences",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/24c8f971e9a4ed6432bde2e03aa4e63de903607a-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Reflect",
+            "deal_text": "50% off",
+            "description": "Automated web testing tool",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/96279b7d25f874a1aa481b697112345efcdf3832-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "GitHub",
+            "deal_text": "1 year free + more!",
+            "description": "The complete developer platform to build, scale, and deliver secure software",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f3018b26b7e8d58d254f7494d360a2340fed8789-240x240.png?max-h=40&auto=format"
+        }
+    ],
+    "Ecommerce": [
+        {
+            "company_name": "Triple Whale",
+            "deal_text": "15% off",
+            "description": "Easily manage and automate analytics, attribution, merchandising, forecasting & more for your Shopify store \u2014 in the palm of your hand.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c9cc163174d254e69bd7194a072cf6ce72619351-3072x3072.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "OctaneAI",
+            "deal_text": "20% off",
+            "description": "Quiz, pop-ups, and messenger to capture zero party data to fuel personalization",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6517f02a0d570740eea60f71fc39fe57d0a92e16-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Sellercloud",
+            "deal_text": "10% off + more",
+            "description": "All-in-one customizable omnichannel e-commerce solution designed to grow your business and automate your operations",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8943753f1b96540fe979a2d47721d11644cfa0f7-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Gorgias",
+            "deal_text": "2 months free",
+            "description": "Customer support help desk for ecommerce companies",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/302cb394fbeb7e168b8a8d45fcc3531ace36217a-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Okendo",
+            "deal_text": "2 months free",
+            "description": "Tools to capture and showcase customer-generated content - ratings, reviews, photos/videos and Q&A",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/74a95700bd4d7e865b2a7834f44c9c6e8426d00d-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Milkshake Media",
+            "deal_text": "$1,200 off",
+            "description": "Email Marketing Agency specializing in scaling 7 & 8 figure DTC eCommerce brands",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a2decd97c834176cb1a360fb750ca1c70559e9e6-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "CronosNow",
+            "deal_text": "$200 off + more",
+            "description": "Ecommerce bookkeeping services for Amazon and Shopify sellers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/1ab8a0af8e9671ef4808cf1c9ada3a721801ab8c-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Yotpo",
+            "deal_text": "2 months free",
+            "description": "Marketing platform for accelerating direct-to-consumer growth",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5c08411db20591ba2538a5b4e621e8f8d16de22a-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "SkuVault",
+            "deal_text": "$1k off",
+            "description": "SkuVault is a cloud-based WMS and IMS that allow eCommerce sellers to solve their toughest business challenges.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f87b6cb3b50c51c3f7b34667019a832a95ba836f-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Foreplay",
+            "deal_text": "20% off",
+            "description": "Collaboration platform for ad creation, management, and planning",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f62741c35b7ee5e472bf27a14917b638bc5038ce-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Mayan",
+            "deal_text": "$1,500 off + more",
+            "description": "Advertising optimization platform for Amazon sellers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3156fc4f8885f2ba4096a39ce3848d3b94bdc50c-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "ShipBob",
+            "deal_text": "$300 credit",
+            "description": "Global logistics platform for direct-to-consumer brands",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fd071b9b207ca6017f2ec801ffe93aa080398207-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Airhouse",
+            "deal_text": "$1,250 credit",
+            "description": "Modern fulfillment for high-growth brands",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/077b97e0fd3a14f2e6edccfd9a815d79c959c83b-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "EcommerceAccountants",
+            "deal_text": "25% off",
+            "description": "Accounting, tax advice, bookkeeping, and UK VAT for ecommerce businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d8e1cbb6dc06fdf2b1c3ea30433c5e308894e098-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "ShipStation",
+            "deal_text": "30 days free + more",
+            "description": "Automated delivery and order management",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/945bfe97bbf15a3a092920d5917cccf91f28e3f4-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Finance": [
+        {
+            "company_name": "Retrievables",
+            "deal_text": "100% free",
+            "description": "Find an attorney and get your invoices paid",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ab134cc253cbfa35fa65e34a883037e7b2ebd911-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Routable",
+            "deal_text": "90 days free",
+            "description": "Bill payments and invoicing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e96be6db6557efddd2e8bf333c26af4724684697-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Fairmint",
+            "deal_text": "30% off",
+            "description": "A stakeholder backend to run and manage Rolling SAFE offerings",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/1b7c399eb62b4cf1f90c174031343c461ca5ffc9-215x48.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Crunchfirm",
+            "deal_text": "1 month free",
+            "description": "Full-stack Finance, Accounting, Tax & CFO Advisory",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4037562e96d700fcf65f7344e6488a17087be5fa-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Streamlined",
+            "deal_text": "6 months free",
+            "description": "Intelligent invoicing built for modern businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/b4daaddccb13201694c6650ce0b261468ee940eb-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "MainStreet",
+            "deal_text": "25% off your fees",
+            "description": "Tax credit discovery & filings",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d5e78a7a9f5502b8f46ceb5c1ea2e86dbe23e4eb-140x140.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Clockwork",
+            "deal_text": "50% off + more",
+            "description": "AI-powered FP&A software for changing businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6c0e3f9d7c3613eb808299cd0388f8a6bea933e6-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Finmark",
+            "deal_text": "50% off + more",
+            "description": "Financial modeling for runway, hiring, and cash",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c666cb0af325538089fd64e7f0712ad50b0068c1-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Forecastr",
+            "deal_text": "20% off + more",
+            "description": "Build a great financial model to impress investors and confidently make better strategic decisions for your company",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/688880c504c48902f5a80b10f450277c9fe11a7c-170x170.webp?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Shareworks",
+            "deal_text": "50% off",
+            "description": "Equity management and company valuation",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/33ffe26f63a5fdb642bcd5c8a06590b356d19a17-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Figure",
+            "deal_text": "50% off",
+            "description": "Cap table management solution",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/93c1d87cccbdb8d24be8189362c7360e08c3dc24-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Tillful",
+            "deal_text": "Free Business Score",
+            "description": "Unlock capital and increase access to credit for small business owners by using better data.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ff1802d50bc75d166a2e9e52ba465c59c965cbff-2000x2000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Pulley",
+            "deal_text": "15% off",
+            "description": "Cap table platform for startups",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/82ac20690ba4cb4dfc7371399adae23a7461ac98-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Shoobx",
+            "deal_text": "20% off",
+            "description": "Automated cap table management and equity financing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e83fae9d168345bf427c9ddc0894d3100e73f505-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "LTSE",
+            "deal_text": "1 year free + more",
+            "description": "Cap table management",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8e7e4cb2f9bce44e7ebb2a6462955442082f2ff9-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "NeoTax",
+            "deal_text": "25% off",
+            "description": "Tax credits for startups and small businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5252a3f64705a649da888bc88d7dba659758b94d-64x65.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Savvi",
+            "deal_text": "25% off",
+            "description": "Lifecycle legal and financing platform that enables founders to complete legal documents, filings, and due diligence in one place.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/cf13e942225fc8360935cf5142eff3c839bc4165-2133x519.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "GrowthLab",
+            "deal_text": "15% off + more",
+            "description": "Bill payments and invoicing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f407c895429354d4fd51dff1ef8204b432f3412e-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Addition Wealth",
+            "deal_text": "50% off",
+            "description": "Holistic financial wellness platform to help employees make informed financial decisions",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/75a477653a52f5af96408a55df44f1ca2adc8300-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Funding": [
+        {
+            "company_name": "Eagle Point Funding",
+            "deal_text": "15% off",
+            "description": "Maximize your R&D non-dilutive funding within the fields of energy, defense, artificial intelligence, robotics, cyber security, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7966ffe3e5845fc9e02989e31c74c93beb8acdf4-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Visible",
+            "deal_text": "100% off",
+            "description": "Visible provides tools for startups to easily update investors, track KPI's, and manage a fundraise in one place.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/1507c71a92a0909f86658b973518e27c45fc4c2e-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "FreeMind Group",
+            "deal_text": "15% off",
+            "description": "Assisting life science organizations to secure non-dilutive funding from US federal agencies and private foundations to fund R&D",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/208e2570c75e3f6e65ff1f9bcf7cbd998d43e1b8-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Republic",
+            "deal_text": "20% off ",
+            "description": "Republic is a global private investment platform helping founders raise capital through equity crowd-investing.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fbc07d8f8b8a848e8bb75ab8976499a2abb5709d-2000x2239.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Ansarada",
+            "deal_text": "30% off",
+            "description": "Ansarada is a global leading platform for getting money raised and deals done",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c6737af55c30f8190c02e6637394890ed32f40b8-200x200.jpg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Design For Decks",
+            "deal_text": "$500 off + more",
+            "description": "Design For Decks is a pitch deck design firm helping founders and investors bring their ideas to the world",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8ff1e56fa5b955ce7456be555bc2e6f67db9a7d8-981x981.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Grantify Inc",
+            "deal_text": "$400 off",
+            "description": "Grantify uses tech to secure $275k to $1.25m in grants for your business (no equity, no debt)",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/055ea348d1253e66ce30a3124c43a9eb7c8e1776-462x540.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Empire Flippers",
+            "deal_text": "10% off",
+            "description": "Empire Flippers is the #1 curated marketplace in the world for buying and selling profitable websites, e-commerce stores, and SaaS companies.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/86ffa763fb3b48f3442d7511065041d6624b6bb8-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Wefunder",
+            "deal_text": "20% off",
+            "description": "Crowdfunding service",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/86b3fa773a898473e6764587224586b80a0bed50-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Onfolio",
+            "deal_text": "Free Business Evaluation",
+            "description": "We buy digital companies from independent entrepreneurs and grow them to their full potential.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/054091ed2aaacc4eae1e381680cd2df7ec813950-145x150.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Kickfurther",
+            "deal_text": "$1k off",
+            "description": "Fund up to 100% of your inventory costs for all of your sales channels, where you don't pay until you sell, plus it's not a debt or equity dilutive",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4aff02a10fbface9cb89551ab20e2db7f1705298-1000x1000.png?max-h=40&auto=format"
+        }
+    ],
+    "Hosting": [
+        {
+            "company_name": "AWS",
+            "deal_text": "$5k credits",
+            "description": "Cloud computing services",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5a3400d8961f4d0f21e98e38d4cdb079744313c8-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Microsoft for Startups",
+            "deal_text": "Up to $350k benefits",
+            "description": "Platform for all founders at any stage to reach their next milestone through personalized technical tools and business resources",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3595248fd5001f8c4078b4f82e46e5f363d68f32-470x231.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Porter",
+            "deal_text": "1 year free",
+            "description": "Easiest way to deploy on AWS, GCP, and Azure",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a4fafe52dbbbef6f7605c57a801367540aadb060-752x752.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Antimetal",
+            "deal_text": "$100k off + more",
+            "description": "Antimetal optimizes your cloud spend. Save up to 75% on your AWS bill in minutes, no extra code or dev time necessary.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/cfc4c6141ba64b5455f2e151925aae5b8f29c6ce-500x500.jpg?max-h=40&auto=format"
+        }
+    ],
+    "HR": [
+        {
+            "company_name": "Thatch",
+            "deal_text": "50% off",
+            "description": "Thatch is an easier way for businesses to give their team great health benefits.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/355858df2b808e71db64107962437385f6d82eda-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Middesk",
+            "deal_text": "20% off",
+            "description": "Multi-state payroll registration",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ec3968f3acbee459560eca21c755bad84baf3555-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "TLNT",
+            "deal_text": "$1,000 credit",
+            "description": "Full-time remote hiring in Mexico & LATAM for 1/3rd the cost of a US hire",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/44383f06fa92cc6c48ea89fb3624849aabb31235-1000x517.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "AbstractOps",
+            "deal_text": "5% off a year",
+            "description": "Put your payroll tax registration & state compliance on autopilot",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5e6eb39a8c90dcb74e945c1156a7547c9ca88506-1080x1081.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Franklin Payroll",
+            "deal_text": "3 months free",
+            "description": "Modern payroll solutions for U.S employees and global contractors. Manage benefits, expenses, & invoices with crypto & direct deposit.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f23d717a93b97fdc94b058ef4b21607415993c4d-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Gusto",
+            "deal_text": "3 months free",
+            "description": "Hire, pay, and manage talent in Gusto\u2019s award winning, all-in-one platform. It's founder friendly; easy to onboard, set it and forget it.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7145bbc82f25c7b348d07ccc343807a7864fb883-3x1.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "OfficeTogether",
+            "deal_text": "2 months free",
+            "description": "Desk reservations and team scheduling for hybrid offices",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d2fa441da0eabbcd6699aac3693454a89aeb55b1-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Growmotely",
+            "deal_text": "3 months free",
+            "description": "All in one platform for building remote teams. Culture-First HR system.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5634b616a90dd5396bb173ab1420faf4fab19ce7-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Rippling",
+            "deal_text": "6 months free",
+            "description": "Payroll, Benefits Administration, Employee + IT + Device Management",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/894ab6d173196e8cf704190b3ed34fd999d4da51-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Deel",
+            "deal_text": "$25k off + free HRIS",
+            "description": "Payroll and compliance for international teams",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/666f4e397b4f171a756ed81620f264a00c5674a8-800x413.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Parallel",
+            "deal_text": "One month free",
+            "description": "The all-in-one hiring stack for modern startups.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/93a14f3d54035e77a7e418b02ff52a422a1a61e7-400x400.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Navan",
+            "deal_text": "$1,000 reward",
+            "description": "Corporate travel & expense management",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/5be680dc5f732ddedbce066b62eec26534d3974d-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Remote",
+            "deal_text": "20% off + more",
+            "description": "Global HR solutions for scaling businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f3568e34030a68336eb276ec8d78965467610485-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Catch",
+            "deal_text": "4 months free",
+            "description": "Automated tax payments, retirement, and health insurance for freelancers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/707e7e49ec03dacbbc5f32fea2dd76bf70c8c840-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Incorporation": [
+        {
+            "company_name": "Clerky",
+            "deal_text": "$100 off",
+            "description": "Online legal services for getting started",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c1046044c240a6cd50261aa57ee5b627e09dc513-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Launchese",
+            "deal_text": "10% off",
+            "description": "UK incorporation, bookkeeping and consultancy",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/2bb6444edbc41f8c4fe55a2badfd40dc2eb10a6f-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "BetterLegal",
+            "deal_text": "$150 off",
+            "description": "US incorporation services",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/48dc8b488bcc37f422e657e5439f2ad84cc0378d-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Stripe Atlas",
+            "deal_text": "20% off",
+            "description": "Incorporate a US company, get a Tax ID (EIN), and set up equity",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/447f991c3642f4c2717cc60eee5126c3dbb1bb13-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Harbor Compliance",
+            "deal_text": "$15 off",
+            "description": "Nationwide compliance for startups and beyond",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/0ac1e72867baf9ba69a64fbcc747f8cd5e2d5777-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Northwest",
+            "deal_text": "$186 off",
+            "description": "Small business resources - business formation, registered agent, virtual office and more.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/96f921ce71b2dd663962b313479fbebdf50de4ab-1000x1000.png?max-h=40&auto=format"
+        }
+    ],
+    "Insurance": [
+        {
+            "company_name": "Fullsteam",
+            "deal_text": "25% off",
+            "description": "Insurance broker and advisor for small and medium sized businesses.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6af35537077ce005ad3258a91f3a162823d0676c-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Vouch",
+            "deal_text": "Up to 5% off",
+            "description": "Insurance for startups",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/a632662a0f0e77961f413b8eac30cc80ea2016c2-2x1.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "AKKO",
+            "deal_text": "1 month free + more",
+            "description": "Modern, affordable device insurance",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/0a12d7f1735f3f77d9390eda2eccf26e63d4e80c-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Spott",
+            "deal_text": "$25 off",
+            "description": "eCommerce-only insurance solution",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3fbb67a96219ba1dd9d1ef895c496e7e17d7ef81-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Embroker",
+            "deal_text": "10% off",
+            "description": "Startup Insurance",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c20db286171d7bca291f055f8ea2a4b807f399dc-64x65.svg?max-h=40&auto=format"
+        }
+    ],
+    "Productivity": [
+        {
+            "company_name": "Uizard",
+            "deal_text": "Up to 40% off",
+            "description": "Simple and collaborative design and prototyping tool for non-designers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/91a0dea9fca3e0f157a2642ad7c63c3725fd6cf0-250x250.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Common Paper",
+            "deal_text": "50% off + more",
+            "description": "Open source, standard contracts and a platform for collecting signatures and getting paid quickly.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/30545f19f2495206313e4ee46eb5f59f5e65230f-173x173.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Linear",
+            "deal_text": "12 months free",
+            "description": "Project management and issue tracking software",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f01d2cca3d1dfd3229d8a00a62ec231721e9a69d-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Fillout",
+            "deal_text": "30% off",
+            "description": "Create powerful forms, surveys and quizzes your audience will answer",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4219091d13451f24af17a646239110b45bf3d172-522x522.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Vimcal",
+            "deal_text": "3 months free",
+            "description": "Calendar designed for remote teams - time zone conversion, booking links, keyboard shortcuts & more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e61a7dad65b9289febdbf118aa046d4eacdaded1-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Miro",
+            "deal_text": "$1k credit",
+            "description": "Collaborative online whiteboard",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ed865d13fd72749bca9c46724337fe0b578d0232-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Chameleon",
+            "deal_text": "25% off",
+            "description": "Self-serve, codeless UX tools",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ef983404739a8019764fac0afcf769c42b9e2842-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Grain",
+            "deal_text": "25% off",
+            "description": "All-in-one video management workspace",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/ee73cb4815c0ff335dac56b03713b4b8a1d7350e-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Andrena",
+            "deal_text": "25% off",
+            "description": "Andrena is office Internet, made to measure. We leverage a company's existing Internet provider and build out a custom connectivity solution.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/64ad86d3a722d818064c8cee11d13c7c5f849de7-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Slab",
+            "deal_text": "25% off",
+            "description": "Knowledge base software",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3fb655aa29456421510145a5eb16c1542bd7eb5a-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Notion",
+            "deal_text": "6 months free",
+            "description": "Thousands of startups use Notion to run a wiki, manage projects, share documents, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c63f6ab8aa286038888b591ad2f15a246898bb3e-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Baremetrics",
+            "deal_text": "50% off",
+            "description": "Metrics, dunning, and engagement tools for SaaS & subscription businesses",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/1e62948a43711befd7cbb045789f3beda1436e19-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Cal.com",
+            "deal_text": "20% off",
+            "description": "Open-source, white-label, privacy-first and developer friendly scheduling platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/31cb8aaa5dcdb5949fc9cf11fb795965ca4d1445-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Asana",
+            "deal_text": "6 months free",
+            "description": "Work management platform for cross-team and cross-function collaboration and productivity.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e63d6ff5c2a83f7b48115cbb49d0cf5b4c3a9edb-1565x1032.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "SpotDraft",
+            "deal_text": "20% off",
+            "description": "SpotDraft is the number one contract lifecycle management software (CLM) for fast-growing companies.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/0ea49537c589de86db1fc8e4149624b06282f761-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "ClickUp",
+            "deal_text": "$3k credits",
+            "description": "Project management tool",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/2ca3b8cd2770dea6470387bd0ab05b47195c7e76-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Workee",
+            "deal_text": "3 months free",
+            "description": "No-code website with booking, scheduling, payments, & more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c0359354f76ffad869eb51146add585557c882df-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Sales & Marketing": [
+        {
+            "company_name": "Sprig",
+            "deal_text": "1 month free",
+            "description": "User research platform to help make customer-informed product decisions",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/226ed566586b32655e096682e8db90ee0690d7a1-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Offsyte",
+            "deal_text": "100% off fees",
+            "description": "Explore, compare, and book your next team event with Offsyte",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3b4865d523374c6e9e2bdaf587f480fca5f9f7e7-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Crunchbase",
+            "deal_text": "10% off",
+            "description": "Automated prospecting, personalized insights, and key integrations with sales tools",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3f9adc674f77261bd69f52ee7f99a13a404887d0-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Streak",
+            "deal_text": "25% off + more",
+            "description": "Lightweight CRM for startups, investors, and small businesses.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/7403cc5aa3e21f8d98d69860f459e5e4b52c588e-400x370.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Zendesk",
+            "deal_text": "6 months free + more",
+            "description": "Zendesk is a service-first CRM company with support, sales, and customer engagement products designed to improve customer relationships.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/87ab737dbbae04bb842720be50a5211146c100fb-1513x1513.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Crowdspring",
+            "deal_text": "$25 off + more",
+            "description": "Logo design",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/32e09e50679b2d5bd28c59128ee12d7b8881084d-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Goody",
+            "deal_text": "$100 credit",
+            "description": "Gifting platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/044427320d850cd89d66c901c94915fad224c1d5-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Close",
+            "deal_text": "30% off",
+            "description": "An all-in-one CRM built for sales teams",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6a7fdd56504c5510e93ea797be4a7bfe046caaec-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Beehiiv",
+            "deal_text": "20% off",
+            "description": "Launch, scale, and monetize with the newsletter tool built for growth",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/41f70f939d75f4eda9e640bc6422792a67b5d99a-400x400.jpg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "SwagUp",
+            "deal_text": "10% off",
+            "description": "Platform to create, automate, and distribute branded swag",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/9607dec696145e289426a7986282d7ebcb85bee5-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Corus",
+            "deal_text": "Free Pro Plan",
+            "description": "Research tools to find product market fit, optimize pricing, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/49a5a995a229b8903c7307fffa3e95243869ea2f-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Customer.io",
+            "deal_text": "1 year free",
+            "description": "Marketing platform for sending automated emails, push notifications, and SMS messages",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/11a0522ddf4cc24eaa14b9d229f98bfb3fdd0b86-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "DocSend",
+            "deal_text": "Up to 90% off",
+            "description": "Secure document storage and sharing",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/522957dbe838f6106c866ff2d334d0aa9ddd1d34-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Yext",
+            "deal_text": "$35k credits",
+            "description": "A knowledge engine platform that helps brands deliver official answers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e6f1beeef3a1dc725c430fa8073f2a3cf50682de-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Zest",
+            "deal_text": "3 months free + more",
+            "description": "Gifting platform for sales and success teams to engage, nurture, and delight everyone from prospects to loyal clients.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6ffc664ad5ce983b8ebb121c2717e989ef35c2ff-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Pipedrive",
+            "deal_text": "50% off",
+            "description": "Pipedrive is the easy-to-use, #1 user-rated CRM tool. Get more qualified leads and grow your business.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3252d69a05d71b1cf73240826fae05921ce86d8e-1000x274.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "HubSpot",
+            "deal_text": "30% off",
+            "description": "CRM for marketing, sales, or customer service",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/256ceea2b54f0d795b1ef8e1eb1790bb2d234e0b-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Freshworks",
+            "deal_text": "Up to 90% off",
+            "description": "Cloud-based customer and employee engagement software, including CRM, LiveChat, support, marketing automation, ITSM, and HRMS",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/2e8ba245c966cc814db26ad178925c54e3f5fd2b-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Segment",
+            "deal_text": "$50k credits",
+            "description": "Customer data platform for collecting, cleaning, and controling customer data",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8690ea3ac27c5d7534a2824cd4d928f6aadf22b4-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "CleverTap",
+            "deal_text": "50% off",
+            "description": "Omnichannel customer engagement and user retention platform that helps companies with real-time analytics, segmentation, personalization, and campaign automation to grow faster.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/793d5926d200e7e0f1c21f3484e86c503173e7b7-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "Security & Privacy": [
+        {
+            "company_name": "SecureFrame",
+            "deal_text": "10% off",
+            "description": "SOC 2 and ISO 27001 compliance",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e1de88b0d5e028b5b87f6e91afa7d0ce9521ea0d-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Transcend",
+            "deal_text": "20% off",
+            "description": "Data mapping, consent management, and privacy requests",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f7ce485595567eac208f97386bc9ac6affdd36de-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Very Good Security",
+            "deal_text": "15% off + more",
+            "description": "SOC2, PCI, and Other Compliances",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6722909c7cd52a38faa00c965aa7ae8f7d85a256-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Auth0 by Okta",
+            "deal_text": "12 months free",
+            "description": "Identity management platform for application builders and developers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/be01331fc22dd6eca065bd7339cdad747c9e4773-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Doppler",
+            "deal_text": "50% off",
+            "description": "Universal secrets management for developers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/058b7d9b31398f109eca5a033aab534ca974c6b8-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Drata",
+            "deal_text": "20% off",
+            "description": "A security and compliance automation platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/6efd48345afea4be4ec171cd3e8e4fc73ecdc43b-868x190.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "TeamPassword",
+            "deal_text": "40% off",
+            "description": "Easy-to-use password manager built for teams",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fa4326d7506b3e0b8ee746585cb4d1406881924f-1200x1201.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Nightfall",
+            "deal_text": "10% off",
+            "description": "Discover, classify, and protect your sensitive data",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/48746cbec19ffb462164aad6f45e7780e4630cf7-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "1Password",
+            "deal_text": "14 days free",
+            "description": "Password manager for documents, credit card information, and more",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4a693df92de48e2e4607d213f4c9867d21e49a69-64x64.svg?max-h=40&auto=format"
+        }
+    ],
+    "VC Funds": [
+        {
+            "company_name": "4Degrees",
+            "deal_text": "2 months free",
+            "description": "Relationship intelligence CRM - built for the needs of private market investors",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d6cc4bcfd8cbb867c2b94048f828f639b798ac5a-276x276.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Visible for Investors",
+            "deal_text": "2 months free",
+            "description": "Visible for Investors is a founder-friendly portfolio monitoring and reporting solution used by 350+ VC funds around the world",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/3309c6161c0a6d049ce6819aff77909f44d3d01e-346x346.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Vector AIS",
+            "deal_text": "10% off",
+            "description": "Vector is a premier, white-glove fund administrator for closed-end alternative investment vehicles",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/96f0aa11500578fac87d63ea44122edb95e21cb9-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Passthrough",
+            "deal_text": "10% off",
+            "description": "Onboard investors in just 20 minutes, on average. Spend time running your fund, not chasing paperwork.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/b066e11de5e08e8747218f2e2e5ddc7005f4bf2a-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Tactyc",
+            "deal_text": "20% off",
+            "description": "Tactyc\u00a0is the leading forecasting\u00a0and scenario planning platform for VCs.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/497d9ccaec24ee01c34692a4b5756bed99862c09-400x400.png?max-h=40&auto=format"
+        }
+    ],
+    "Web 3": [
+        {
+            "company_name": "Franklin Payroll",
+            "deal_text": "3 months free",
+            "description": "Modern payroll solutions for U.S employees and global contractors. Manage benefits, expenses, & invoices with crypto & direct deposit.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/f23d717a93b97fdc94b058ef4b21607415993c4d-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "CoinTracker",
+            "deal_text": "10% off",
+            "description": "Cryptocurrency portfolio tracking and tax compliance",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/cea1ee6349f349926b60e622453c3138210ba02b-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Cryptio",
+            "deal_text": "10% off + more",
+            "description": "Enterprise-grade back-office for web3",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4c582f644209f310e75ddfa604b3bc9ffd0de2ec-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Dynamic",
+            "deal_text": "$1k credit",
+            "description": "Multi-chain web3 auth platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/d8985542eb2d6ab8b14ceee989b53dd67b9fea93-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Alchemy",
+            "deal_text": "$2,500 credits",
+            "description": "Developer platform to help build decentralized applications",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4b730069f0a84532a1fa6478f45cefc3d73d599f-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "QuickNode",
+            "deal_text": "$5k credits",
+            "description": "Developer platform to build & scale blockchain-powered applications",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/4d82312f38ed4e9b5fa4c8371555869ebf587180-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Integral",
+            "deal_text": "20% off",
+            "description": "Accounting solution for web3 operators",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e52f93146a9134e677aef660574fae7279a71505-177x177.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Taxbit",
+            "deal_text": "2 months free",
+            "description": "Web3 accounting platform",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c4bd37c40dc23f5873d561037d7c32d8ac02335d-1000x1000.png?max-h=40&auto=format"
+        },
+        {
+            "company_name": "BlockSurvey",
+            "deal_text": "50% off",
+            "description": "End-to-end encrypted forms and surveys",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e6442c6fcbe43ded55bdec65a87f2491ef8ac88a-1000x1000.png?max-h=40&auto=format"
+        }
+    ],
+    "Everything else": [
+        {
+            "company_name": "Churn Buster",
+            "deal_text": "10% off",
+            "description": "Failed payment recovery",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/e2cad420c5893e38d5a913ff62258c4b43c3e971-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Namecheap",
+            "deal_text": "Up to 100% off",
+            "description": "Domain name registrar",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/fec4164d206977c3aba7d4f2c37c1f4a36d913e6-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "MentorCruise",
+            "deal_text": "10% off",
+            "description": "Mentorship match service",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8476b56f159193416ce2fcefd75da8a1068ce4fc-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Nicklpass",
+            "deal_text": "20% off",
+            "description": "Platform to read the news without paywalls",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/967074e9f372323a44f21bb5dd64822082fd1a52-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Toak",
+            "deal_text": "Free personalization",
+            "description": "Tree-to-bar dark chocolate company",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/b88863ddb42eb1692f925994f700d7e1e5fb4795-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Mother Honestly",
+            "deal_text": "75% off",
+            "description": "Community-powered platform for caregivers",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/8322c83fd914d3f1e6edd4bac7a4e020338139c4-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Signeasy",
+            "deal_text": "6 months free",
+            "description": "eSignature solution",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/afa4c197e61a5ab42171314fedea3a600efd3691-64x64.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Trustworthy",
+            "deal_text": "30% off",
+            "description": "View of all your family information in one place \u2014 ID\u2019s, Money, Property, Passwords, Insurance, Taxes, and more.",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/c89b48a7e550358c7f6d7607b13ef7c9c306f34f-1000x153.svg?max-h=40&auto=format"
+        },
+        {
+            "company_name": "Exec",
+            "deal_text": "10% off",
+            "description": "Coaching programs for growing teams",
+            "image_src": "https://cdn.sanity.io/images/7k8ygnns/mwb/2b778be89506c31561a76e8145ce6743145a2ea1-64x64.svg?max-h=40&auto=format"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-import Mercury from "@/components/Mercury";
+import Mercury from "@/components/Logo";
 
 import {
   BuildingOfficeIcon,
@@ -29,7 +29,7 @@ const Sidelink = ({ href, children }: SidebarLinkProps) => {
 
 const Sidebar = () => {
   return (
-    <div className="flex h-screen w-[13.5rem] flex-col gap-6 border-r-[1px] bg-gray-50 pl-6 pr-2 tracking-wider">
+    <div className="flex h-screen w-[13.5rem] flex-col gap-6 border-r-[1px] bg-gray-50 pl-6 pr-2 tracking-wider fixed left-0 top-0">
       <Mercury />
 
       <Link href="/settings" className="group mt-5 flex items-center gap-2">

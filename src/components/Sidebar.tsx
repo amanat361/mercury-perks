@@ -5,47 +5,47 @@ const destinations = {};
 
 const Sidebar = () => {
   return (
-    <div className="bg-gray-50 flex flex-col p-4 gap-4 h-screen">
+    <div className="flex h-screen flex-col gap-4 bg-gray-50 p-4">
       <h1 className="text-lg font-bold">MERCURY</h1>
 
-      <Link className="p-2 text-md text-slate-800 font-medium" href="/settings">
+      <Link className="text-md p-2 font-medium text-slate-800" href="/settings">
         Settings
       </Link>
 
       <div className="flex flex-col gap-2">
         <h2 className="text-xs text-slate-600">Company</h2>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/company-profile"
         >
           Company Profile
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/team"
         >
           Team
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/controls"
         >
           Controls
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/integrations"
         >
           Integrations
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/api-tokens"
         >
           API Tokens
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/vault"
         >
           Vault
@@ -55,19 +55,19 @@ const Sidebar = () => {
       <div className="flex flex-col gap-2">
         <h2 className="text-xs text-slate-600">Personal</h2>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/my-profile"
         >
           My Profile
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/notifications"
         >
           Notifications
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/security"
         >
           Security
@@ -77,13 +77,13 @@ const Sidebar = () => {
       <div className="flex flex-col gap-2">
         <h2 className="text-xs text-slate-600">Explore</h2>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/perks"
         >
           Perks
         </Link>
         <Link
-          className="p-2 text-sm text-slate-800 hover:bg-gray-100 rounded"
+          className="rounded p-2 text-sm text-slate-800 hover:bg-gray-100"
           href="/referrals"
         >
           Referrals

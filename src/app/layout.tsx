@@ -21,7 +21,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="flex">
           <Sidebar />
-          <div className="flex-1">{children}</div>
+          <div className="flex-1 flex justify-center">{children}</div>
         </div>
       </body>
     </html>
